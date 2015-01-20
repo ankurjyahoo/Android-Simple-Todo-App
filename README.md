@@ -8,3 +8,7 @@ Completed user stories
 * User can modify an item in the list
 * User should be able to see the list on an app restart
 
+
+![alt tag](https://github.com/ankurjyahoo/Android-Simple-Todo-App/TodoApp.gif)
+
+Image created by LiceCap
