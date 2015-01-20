@@ -9,6 +9,6 @@ Completed user stories
 * User should be able to see the list on an app restart
 
 
-![alt tag](https://github.com/ankurjyahoo/Android-Simple-Todo-App/TodoApp.gif)
+![](https://github.com/ankurjyahoo/Android-Simple-Todo-App/blob/master/TodoApp.gif)
 
 Image created by LiceCap
